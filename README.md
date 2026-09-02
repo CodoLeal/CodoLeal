@@ -30,15 +30,6 @@ Estudiante de **Ingeniería en Ejecución Informática** en el IP Santo Tomás (
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CodoLeal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodoLeal&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
-
----
-
 ### 📬 Conéctate conmigo
 
 - ✉️ **Email:** [vgonzalez38217@gmail.com](mailto:vgonzalez38217@gmail.com)
